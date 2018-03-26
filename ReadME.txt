@@ -8,5 +8,5 @@ We can use template matching several times to detect different shapes of tick ma
 
 2)image_diff.py
 This file contains the code for image difference algorithm. The file test1.jpg contains the blank answer sheet and test2.jpg contains the filled answer sheet.
-This algorithm finds the difference between these 2 images and writes a new image file diff.jpg. 
+This algorithm finds the difference between these 2 images and writes a new image file diff.jpg. It does not work well if the images are improperly scanned or the answer sheet has markings other than tick.
 We can find the option number by sensing the change in pixel intensity over the image.
