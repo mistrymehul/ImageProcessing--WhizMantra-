@@ -1,0 +1,3 @@
+Language: Python. 
+IDE: Spyder 3.6.
+Libraries Used: opencv, imutils, numpy, matplotlib(optional)
